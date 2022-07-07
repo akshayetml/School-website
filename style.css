@@ -1,0 +1,14 @@
+img{
+    width: fit-content;
+    height: 500px;
+    border: none;
+    text-align: center;
+}
+#img{
+    border: 3px dashed gold;
+    width: fit-content;
+    height: 500px;
+    border: none;
+    text-align: center;
+
+}
